@@ -1,0 +1,6 @@
+C:\Users\Sane\Documents\Visual Studio 2015\Projects\PhaserExample\PhaserExample\bin\MinerGame.dll.config
+C:\Users\Sane\Documents\Visual Studio 2015\Projects\PhaserExample\PhaserExample\bin\MinerGame.dll
+C:\Users\Sane\Documents\Visual Studio 2015\Projects\PhaserExample\PhaserExample\bin\MinerGame.pdb
+C:\Users\Sane\Documents\Visual Studio 2015\Projects\PhaserExample\PhaserExample\obj\Debug\MinerGame.csprojResolveAssemblyReference.cache
+C:\Users\Sane\Documents\Visual Studio 2015\Projects\PhaserExample\PhaserExample\obj\Debug\MinerGame.dll
+C:\Users\Sane\Documents\Visual Studio 2015\Projects\PhaserExample\PhaserExample\obj\Debug\MinerGame.pdb

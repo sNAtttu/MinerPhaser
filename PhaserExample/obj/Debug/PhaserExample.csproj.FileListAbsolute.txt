@@ -1,0 +1,6 @@
+c:\users\sane\documents\visual studio 2015\Projects\PhaserExample\PhaserExample\bin\PhaserExample.dll.config
+c:\users\sane\documents\visual studio 2015\Projects\PhaserExample\PhaserExample\bin\PhaserExample.dll
+c:\users\sane\documents\visual studio 2015\Projects\PhaserExample\PhaserExample\bin\PhaserExample.pdb
+c:\users\sane\documents\visual studio 2015\Projects\PhaserExample\PhaserExample\obj\Debug\PhaserExample.csprojResolveAssemblyReference.cache
+c:\users\sane\documents\visual studio 2015\Projects\PhaserExample\PhaserExample\obj\Debug\PhaserExample.dll
+c:\users\sane\documents\visual studio 2015\Projects\PhaserExample\PhaserExample\obj\Debug\PhaserExample.pdb
