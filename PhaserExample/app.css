@@ -5,3 +5,16 @@
 span {
     font-style: italic;
 }
+.help-me{
+    display:none;
+    position:absolute;
+    padding:15px;
+    top:100px;
+    left:10px;
+    font-size:larger;
+    color:white;
+    background-color:black;
+}
+.show-help{
+    display:block;
+}
